@@ -2,7 +2,6 @@
 *.pyc
 *cpython-38.pyc
 MakeAll/
-local_config.ini
 venv/
 .idea/
 # Byte-compiled / optimized / DLL files
